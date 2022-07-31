@@ -1,4 +1,7 @@
-# Estou aprendendo linguagem Markdown.
+# Aprendendo linguagem Markdown.
+## (Para algumas dicas de markdown, edit file!)
+
+
 
 **Negrito**
 __Negrito__
